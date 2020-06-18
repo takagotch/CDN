@@ -18,11 +18,19 @@ https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%8
   crossorigin="anonymous"
 ></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.2/picturefill.min.js"></script>
+ 
 
-
+<!-- Fonts-->
+<link
+  href="https://fonts.googleapis.com/css?family=Quicksand&display=swap"
+  rel="stylesheet"
+/>
 ```
 
 ```
+src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+
 
 ```
 
