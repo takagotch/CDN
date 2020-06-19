@@ -14,6 +14,9 @@ https://developers.google.com/speed/libraries
 
 
 
+
+
+
 ```html
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
@@ -54,5 +57,15 @@ $(document).ready(function() {
 });               
 </script>         
 ```
+
+```
+
+```
+
+
+
+
+
+
 
 
