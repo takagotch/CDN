@@ -41,6 +41,8 @@ src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
 ```
 
 ```
+// CDN jQ
+// Google Hosted Libraries 
 // index.html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
