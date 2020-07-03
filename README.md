@@ -1,6 +1,6 @@
 ### cdn
 ---
-cdn.js
+[cdn.js](https://github.com/takagotch/cdnjs/blob/master/README.md)
 https://cdnjs.com/
 
 
