@@ -6,6 +6,8 @@
 
 #### [cdn.js](https://github.com/takagotch/cdnjs/blob/master/README.md)
 
+#### [jsdelivr](https://github.com/takagotch/jsdelivr/blob/master/README.md)
+
 ---
 
 https://cdnjs.com/
